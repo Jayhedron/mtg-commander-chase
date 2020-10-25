@@ -1,3 +1,4 @@
+v1
 Deck consturction rules - As per commander rules. 99 card deck, 1 
 commander. 
 
