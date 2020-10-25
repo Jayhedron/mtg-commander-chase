@@ -1,0 +1,58 @@
+id: 
+Name: Temple of Ascendance
+Type: Plane: Zaegoth
+Planeshift: At the beginning of your upkeep, put a divinity counter on this plane, then draw cards equal to the number of divinity counters on it. Players have no maximum hand size. When Temple of Ascendance has 5 or more counters on it, replace this plane with the top card of the planechase deck.
+Chaos: Put a divinity counter on Temple of Ascendance, then you gain X life, where X is the number of divinity counters on Temple of Ascendance.
+
+
+id:
+Name: Trackers Bureau
+Type: Plane: Innistrad
+Planeshift: Whenever a land enters the battlefield, its controller places a Mana Burst token on this Trackers Bureau. All players gain a life for each two mana burst tokens on Trackers Bureau.
+Chaos: Target land produces mana equal to the number of mana burst tokens on Trackers Bureau of any color that land can produce.
+
+id:
+Name: The Zephyr Maze
+Type: Plane: Kyneth
+Planeshift: Creatures with flying get +2/+0. Creatures without flying get -2/-0.
+Chaos: Target creature gains flying until end of turn.
+
+id:
+Name: Windriddle Palaces
+Type: Plane Belenon
+Planeshift: Players play with the top card of their libraries revealed. You may play the top card of any player's library.
+Chaos: Each player puts the top card of his or her library into his or her graveyard.
+
+id:
+Name: Valley of Idols
+Type: Plane: Tarkir
+Planeshift: All players Commanders cost 1 less generic mana.
+Chaos: Each player may move their commander from the command zone to the battlefield.
+
+id:
+Name: The Royal Treasury
+Type: Plane: Zaegoth
+Planeshift: At the beginning of your upkeep, put a Tithe counter on The Royal Treasury. Draw a number of cards from your libraray equal to the number of tithe counters. Put one in your hand and the rest on the bottom of your library. 
+Chaos: Target player reveals the top X cards of his or her library, where X is the number of Tithe counters on The Royal Treasury. You may cast one of those revealed cards without paying its mana cost. Put the other revealed cards on the bottom of that players library.
+
+id
+Name: The Great Forest
+Type: Plane Lorwyn
+Planeshift:  Each creature assigns combat damage equal to its toughness rather than its power.
+Chaos: Creatures you control get +0/+2 and gain trample until end of turn.
+
+
+id: 
+Name: The Celestial Tower
+Type: Plane: Zaegoth
+Planeshift: At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 1.
+Chaos: Draw a card then create an artifact token creature with lifelink whose power and toughness is equal to the number of cards in your hand.
+
+
+id:
+Name: Temple of Revelation
+Type: Plane: Ushval
+Planeshift: All players play with their hands revealed.
+Chaos: You may discard any number of cards in your hand. If you do, draw X cards, where X is the number of cards you discarded.
+
+
