@@ -1,12 +1,27 @@
-Deck consturction rules
-- As per commander rules. 99 card deck, 1 commander.
+Deck consturction rules - As per commander rules. 99 card deck, 1 
+commander. 
 
-First player shuffles Planechase deck and deals four cards to each player. The four cards are each player's Planechase deck. Each player may look at and select order of cards in deck once at the beginning of the game.
+First player shuffles Planechase deck and deals four cards to each 
+player. The four cards are each player's Planechase deck. Each player 
+may look at and select order of cards in deck once at the beginning of 
+the game. 
 
-Game continues as per commander rules with below additional rules.
+Game continues as per commander rules with below additional rules. 
 
 New turn step: Planechase step. 
 
-Planechase step occurs before Untap step on a player's turn. At the beginning of the Planechase step, the current player may choose to pay 4 life to draw the top card of their Planechase deck and place it on the top of the Planechase zone. Return any cards in the Planechase zone to the bottom of their owner's Planechase deck.
+Planechase step occurs before Untap step on a player's turn. At the 
+beginning of the Planechase step, the current player may choose to pay 4 
+life to draw the top card of their Planechase deck and place it on the 
+top of the Planechase zone. Return any cards in the Planechase zone to 
+the bottom of their owner's Planechase deck. 
 
-Each Planechase card has two effects, a Planeshift effect and a Chaos effect. The Planeshift effect is a continous effect which is active when it is the top card of the Planechase zone. At any time during a player's turn when that player could cast a sorcery, they may pay the Chaos tax to activate the Chaos effect. The Chaos tax is equal to {1} plus the number of players since the Planechase card has been active. (Note: This would mean the player who plays the Planechase card pays {2}, and the player to act pays {5}.
+Each Planechase card has two effects, a Planeshift effect and a Chaos 
+effect. The Planeshift effect is a continous effect which is active when 
+it is the top card of the Planechase zone. At any time during a player's 
+turn when that player could cast a sorcery, they may pay the Chaos tax 
+to activate the Chaos effect. The Chaos tax is equal to {1} plus the 
+number of players since the Planechase card has been active. (Note: This 
+would mean the player who plays the Planechase card pays {2}, and the 
+player to act pays {5}. 
+
