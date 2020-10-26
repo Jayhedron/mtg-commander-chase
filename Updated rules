@@ -1,0 +1,18 @@
+Components
+- 30 card Planechase deck
+
+Set-up
+Each person builds a commander deck as per the MTG commander deck-building rules.
+One player is selected to go first. 
+The player going first shuffles the Planechase deck and places it face-down next to the Planechase zone.
+
+Planechase
+1- At the start of a player's turn there is a Planechase phase. 
+2- During the Planechase phase the player may choose to lose 4 life. If they do, draw three cards from the top card of the Planechase deck, chose one, and place it in the Planechase zone. 
+   The other cards are put on the bottom of the Planechase deck in any order. 
+   The player can only do this once each turn.
+3- Planechase cards have a Planeshift and a Chaos effect. The Planeshift effect is resolved as per the text on the Planechase card. 
+4- The Chaos effect is treated as a sorcery and can only be cast once a turn.
+5- The cost for the Chaos effect is {2} for the player who put the Planechase card in the Planechase zone. 
+   It costs {2} and an additional {1} for every position a player sits to the left of the player who played the Planechase card.
+
