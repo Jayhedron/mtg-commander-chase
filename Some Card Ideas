@@ -1,8 +1,8 @@
 id: 
 Name: Temple of Ascendance
 Type: Plane: Zaegoth
-Planeshift: At the beginning of your upkeep, put a divinity counter on this plane, then draw cards equal to the number of divinity counters on it. Players have no maximum hand size. When Temple of Ascendance has 5 or more counters on it, replace this plane with the top card of the planechase deck.
-Chaos: Put a divinity counter on Temple of Ascendance, then you gain X life, where X is the number of divinity counters on Temple of Ascendance.
+Planeshift: At the beginning of your upkeep, put a divinity counter on Temple of Ascendance then gain X life where X is the number of divinity coutners on Temple of Ascendance.
+Chaos: Exchange life total with target player
 
 
 id:
@@ -32,7 +32,7 @@ Chaos: Each player may move their commander from the command zone to the battlef
 id:
 Name: The Royal Treasury
 Type: Plane: Zaegoth
-Planeshift: At the beginning of your upkeep, put a Tithe counter on The Royal Treasury. Draw a number of cards from your libraray equal to the number of tithe counters. Put one in your hand and the rest on the bottom of your library. 
+Planeshift: At the beginning of your upkeep, put a Tithe counter on The Royal Treasury. Scry X where X is the number of tithe counters on The Royal Treasury then draw a card.
 Chaos: Target player reveals the top X cards of his or her library, where X is the number of Tithe counters on The Royal Treasury. You may cast one of those revealed cards without paying its mana cost. Put the other revealed cards on the bottom of that players library.
 
 id
@@ -45,8 +45,8 @@ Chaos: Creatures you control get +0/+2 and gain trample until end of turn.
 id: 
 Name: The Celestial Tower
 Type: Plane: Zaegoth
-Planeshift: At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 1.
-Chaos: Draw a card then create an artifact token creature with lifelink whose power and toughness is equal to the number of cards in your hand.
+Planeshift: At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand.
+Chaos: Create an artifact creature token with lifelink whose power and toughness is equal to the number of cards in your hand.
 
 
 id:
