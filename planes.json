@@ -152,15 +152,14 @@ id: 22
 Name: Doomraider Encampment
 Type: "Plane: Ushval"
 Planeshift: "Whenever a creature enters the battlefield, it gains Haste and Trample until end of turn."
-Chaos: "Until end of turn you gain whenever you cast a creature spell create a 3/1 red Goblin Warrior creature token."
+Chaos: "Until end of turn you gain whenever you cast a creature spell create a 3/1 red Goblin Warrior creature."
 }
 {
 id: 23 
-Name: Edge of Malacol
-Type: "Plane - Belenon"
-Planeshift: "At the beginning of your upkeep, if you control seven or more basic lands you may return target creature from your graveyard to the battlefield."
-Chaos: "You may return target permanent card from your graveyard to your hand." 
-Replace: Yes
+Name: The Celestial Tower
+Type: Plane: Zaegoth
+Planeshift: At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand.
+Chaos: Create an artifact creature token with lifelink whose power and toughness is equal to the number of cards in your hand."
 }
 {
 id: 24 
@@ -178,11 +177,10 @@ Chaos: "You may return target permanent card from your graveyard to your hand."
 }
 {
 id: 26 
-Name: Fangorn Keep
-Type: "Plane: Nozgorod"
-Planeshift: "At the beginning of your upkeep, put a Rumble counter on this Planechase card, and create X colorless 1/1 worker artifact creature tokens, where X is equal to the number of Rumble counters on this Planechase card."
-Chaos: "Destroy all nonland permanents with converted mana cost less then the number of Rumble counters on this planechase card. Then remove this Planechase card from the game."
-Replace: Yes
+Name: Temple of Revelation
+Type: Plane: Ushval
+Planeshift: All players play with their hands revealed.
+Chaos: You may discard any number of cards in your hand. If you do, draw X cards, where X is the number of cards you discarded.
 }
 {
 id: 27 
