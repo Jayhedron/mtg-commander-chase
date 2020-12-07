@@ -3,7 +3,7 @@
 id: 1
 Name: Academy at Tolaria West
 Type: "Plane - Dominaria"
-Planeshift: "At the beginning of your end step, if you have no cards in hand, draw three cards."
+Planeshift: "At the beginning of your end step, if you have no cards in hand, draw three cards. [When Academy of Tolaria West comes into play you may draw a card and then discard a card.]"
 Chaos: "Draw a card."
 }
 {
@@ -31,7 +31,7 @@ Chaos: "You may exile target instant or sorcery card from target player's gravey
 id: 5
 Name: Archmages Chambers
 Type: "Plane - Zaegoth"
-Planeshift: "Whenever a player casts a spell with one or more targets, each player reveals the top card of his or her library then puts that card at the bottom of their library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged."
+Planeshift: "Whenever a player casts a spell with one or more targets, each player reveals the top card of his or her library then puts that card at the bottom of their library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged. [When Archmages Chambers comes into play Scry 1]."
 Chaos: "Scry 3"
 }
 {
@@ -45,7 +45,7 @@ Chaos: "Choose target creature you control and target creature an opponent contr
 id: 7 
 Name: Gloomwood
 Type: "Plane - Zaegoth"
-Planeshift: "Creatures don't untap during their controller's untap step. Untapped creatures have Shroud."
+Planeshift: "Creatures don't untap during their controller's untap step. Untapped creatures have Shroud. [When Gloomwood comes into play untap your creatures]."
 Chaos: "Create a 1/1 green Insect creature token for each creature you control."
 }
 {
@@ -53,22 +53,21 @@ id: 8
 Name: Astral Arena
 Type: "Plane - Kolbahan"
 Planeshift: "No more than one creature can attack each combat. No more than one creature can block each combat."
-Chaos: "Astral Arena deals 2 damage to each creature."
+Chaos: "Astral Arena deals 2 damage to each creature or each other player."
 }
 {
 id: 9 
-Name: Azglors Altar
-Type: "Plane - Nether Realm"
-Planeshift: "At the beginning of your upkeep, create a 0/1 black Human Cleric creature token with Sacrifice this permanent: Add one generic mana to your mana pool. At any time, you may sacrifice six Cleric tokens. If you do, search your library for a creature card and put it onto the battlefield, then shuffle your library."
-Chaos: "Creatures you control have Sacrifice this creature: Deal 3 damage to target creature or player."
-Replace: Yes
+Name: Temple of Ascendance
+Type: Plane: Zaegoth
+Planeshift: At the beginning of your upkeep, put a divinity counter on Temple of Ascendance then gain X life where X is the number of divinity coutners on Temple of Ascendance.
+Chaos: Exchange life total with target player
 }
 {
 id: 10 
 Name: Bala Thuuls Castle
 Type: "Plane - Zaegoth"
 Planeshift: "During your end step you may destroy a target creature, it can't be regenerated."
-Chaos: "Clash with a target opponent. If you win, you may choose a creature card from that playe"r's graveyard, and put it onto the battlefield under your control. If the target opponent wins they choose a creature card from your graveyard, and put it onto the battlefield under their control.
+Chaos: "Clash with a target opponent. If you win, you may choose a creature card from that player's graveyard, and put it onto the battlefield under your control. If the target opponent wins they choose a creature card from your graveyard, and put it onto the battlefield under their control.
 Replace: Yes
 }
 {
@@ -82,45 +81,42 @@ Chaos: "Sacrifice a creature. You gain 6 life."
 id: 12 
 Name: Breathtaking Vista
 Type: "Plane - Ushval"
-Planeshift: "At the beginning of your upkeep, reveal the top 5 cards of your library, you may put a land card revealed this way into your hand, put the remaining cards into the bottom of your library in any order."
+Planeshift: "At the beginning of your upkeep, reveal the top 5 cards of your library, you may put a land card revealed this way into your hand, put the remaining cards on the bottom of your library in any order."
 Chaos: "You may have target creature get +X/+X until end of turn, where X is equal to the number of lands you control."
 }
 {
 id: 13 
-Name: Candyland
-Type: "Plane - Forgotten Realm"
-Planeshift: "At the beginning of your precombat main phase, put a candy counter on Candyland, then add X mana of any one color to your mana pool for each candy counter on it."
-Chaos: "Candyland deals X damage to target creature or player, where X is the number of candy counters on Candyland."
-Replace: Yes
+Name: Windriddle Palaces
+Type: Plane Belenon
+Planeshift: Players play with the top card of their libraries revealed. You may cast the top card of any player's library.
+Chaos: Each player puts the top card of his or her library into his or her graveyard.
 }
 {
 id: 14 
 Name: Carac Agaialor
 Type: "Plane - Oblivion"
-Planeshift: "Commanders are Indestructible."
+Planeshift: "Commanders are Indestructible. [When Carac Agaialor comes into play you may cast your commander without paying its mana cost]."
 Chaos: "If you control your commander, your commander deals damage equal to its power to each creature."
 }
 {
 id: 15 
-Name: Catacombs of Viskar
-Type: "Plane - Ushval"
-Planeshift: "Each player puts the top five cards of their library into their graveyard. Whenever a creature would die, its controller may pay its mana cost, if that player does, they may return it to their hand."
-Chaos: "Once prior during your turn put a creature card from your graveyard onto the battlefield. ""
-Replace: Yes
+Name: Valley of Idols
+Type: Plane: Tarkir
+Planeshift: All other players Commanders cost 1 less generic mana to cast. [When Valley of Idols comes into play you may cast your commander at no cost].
+Chaos: Each player may cast their commander without paying it's mana cost. You gain 2 life for each commander cast this way.
 }
 {
 id: 16 
-Name: Celestine Reef
-Type: "Plane - Luvion"
-Planeshift:" Creatures without flying or islandwalk can't attack."
-Chaos: "Until your next turn you can't lose the game and your opponents can't win the game."
-Replace: Yes
+Name: The Royal Treasury
+Type: Plane: Zaegoth
+Planeshift: At the beginning of your upkeep, put a Tithe counter on The Royal Treasury. Scry X where X is the number of tithe counters on The Royal Treasury then draw a card.
+Chaos: Target player reveals the top X cards of his or her library, where X is the number of Tithe counters on The Royal Treasury. You may cast one of those revealed cards without paying its mana cost. Put the other revealed cards on the bottom of that players library.
 }
 {
 id: 17 
 Name: Cliffs of Contradiction
 Type: "Plane - Inversia"
-Planeshift: "At the beginning of your upkeep, manifest the top card of your library (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card)."
+Planeshift: "At the beginning of your upkeep, manifest the top card of your library (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card). [When Cliffs of Contradiction comes into play you may manafest a card from your hand]."
 Chaos: "Turn all face down cards on the battlefield face up. Any instant or sorcery cards revealed this way are put into the graveyard with no effect."
 }
 {
@@ -139,11 +135,10 @@ Chaos: "Deal 5 damage to target creature."
 }
 {
 id: 20 
-Name: Dalaran
-Type "Plane: Azeroth"
-Planeshift: "Instant and Sorcery spells cost {1} less to cast."
-Chaos: "Once during your turn, create a 9/9 colorless Golem artifact creature token that comes into play at the end of your turn."
-Replace: Chaos
+Name: The Great Forest
+Type: Plane Lorwyn
+Planeshift:  Each creature assigns combat damage equal to its toughness rather than its power.
+Chaos: Creatures you control get +0/+2 and gain trample until end of turn.
 }
 {
 id: 21 
